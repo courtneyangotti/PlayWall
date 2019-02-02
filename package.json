@@ -2,6 +2,7 @@
   "name": "photowall",
   "version": "0.1.0",
   "private": true,
+  "http://courtneyangotti.github.io/PlayWall"
   "dependencies": {
     "firebase": "^4.8.2",
     "prop-types": "^15.5.7",
